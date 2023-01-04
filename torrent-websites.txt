@@ -688,6 +688,7 @@
 0.0.0.0 rutor.is
 0.0.0.0 rutracker.org
 0.0.0.0 rutracker.ru
+0.0.0.0 rutracker.net
 0.0.0.0 s.yoooo.co
 0.0.0.0 savebt.com
 0.0.0.0 scr.cr
